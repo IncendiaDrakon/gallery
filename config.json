@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "flow",
+  "theme": "cards", // Your theme
   "theme-style": "./custom.css",
   "footer": "https://incendiadrakon.carrd.co",
   "usage-stats": true
